@@ -2,7 +2,7 @@
 
 ## reference
 
-- [Project Euler .net](https://projecteuler.net/about)
+- [About - Project Euler](https://projecteuler.net/about)
 
 ## profile
 
